@@ -1,2 +1,2 @@
 # Meditation-In-VR
-jjj
+Final Year Project for my BSc Computer Science degree
